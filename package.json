@@ -1,18 +1,18 @@
 {
-  "name": "@chriscodesthings/stub-repo",
+  "name": "@chriscodesthings/random-in-range",
   "version": "0.1.0",
-  "description": "npm package template",
+  "description": "Picks a random number within a given range",
   "keywords": [
-    "stub",
-    "package",
-    "template"
+    "random",
+    "number",
+    "range"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChrisCodesThings/stub-repo.git"
+    "url": "git+https://github.com/ChrisCodesThings/random-in-range.git"
   },
   "bugs": {
-    "url": "https://github.com/ChrisCodesThings/stub-repo/issues"
+    "url": "https://github.com/ChrisCodesThings/random-in-range/issues"
   },
   "main": "index.js",
   "type": "module",
